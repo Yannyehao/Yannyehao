@@ -15,7 +15,7 @@ Present Yehao Yan's current professional role, academic background, and selected
 
 GitHub profile README with local SVG assets and standard Markdown / HTML. No runtime, external image service, or private dependencies.
 
-Visual direction: purple and white, inspired by the author's Mila background; white canvas, deep purple typography and a light lavender accent palette.
+Visual direction: navy and gold, restored to match the overall profile presentation.
 
 ## Stages
 

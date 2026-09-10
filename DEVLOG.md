@@ -1,5 +1,9 @@
 # Profile updates
 
+## 2026-09-10 · Restore navy and gold
+
+Restored the original navy and gold banner at the author's request. Used a distinct asset URL to avoid stale image caches; profile copy and project cards remain unchanged.
+
 ## 2026-09-10 · Purple and white theme
 
 Updated the profile banner to a white and lavender background with purple typography and accents, following the author's requested Mila-inspired direction. Kept the layout and biographical text intact.
