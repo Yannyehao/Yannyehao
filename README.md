@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.svg" width="100%" alt="Yehao Yan — AI Scientist at BNC. Université de Montréal / Mila. Currently studying, expected graduation 2027. Montréal.">
+  <img src="assets/profile-purple.svg" width="100%" alt="Yehao Yan — AI Scientist at BNC. Université de Montréal / Mila. Currently studying, expected graduation 2027. Montréal.">
 </p>
 
 <p align="center">
