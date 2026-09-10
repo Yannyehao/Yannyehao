@@ -6,6 +6,7 @@
 - Added four selected projects with research work first, then local AI tools and systems.
 - Grounded project descriptions in their public READMEs; no unverified results or specific degree titles added.
 - Prepared sidebar bio and company update to match the user-confirmed current role.
+- Published the profile README and visually checked it on GitHub. Sidebar update remains pending because the publishing credential lacks profile-edit permission; no sidebar changes were applied.
 - Next: add more precise academic details and project demonstrations as they become available.
 
 ## 2026-09-10 · Initialization

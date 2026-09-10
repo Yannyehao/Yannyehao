@@ -19,7 +19,7 @@ GitHub profile README with local SVG assets and standard Markdown / HTML. No run
 
 1. Initialize an independent repository.
 2. Completed: profile banner, introduction, and four project entries.
-3. Validate links and public content; publish profile repository and update sidebar bio and company.
+3. Completed: validated links and public content; published the profile repository and reviewed the rendered GitHub page. Sidebar bio and company update remains pending.
 4. Add verified degree details and project demonstrations later.
 
 ## Risks and checks
