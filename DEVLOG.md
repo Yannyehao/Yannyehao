@@ -1,5 +1,9 @@
 # Profile updates
 
+## 2026-09-10 · Purple and white theme
+
+Updated the profile banner to a white and lavender background with purple typography and accents, following the author's requested Mila-inspired direction. Kept the layout and biographical text intact.
+
 ## 2026-09-10 · Profile design
 
 - Created a navy and gold SVG banner highlighting BNC, UdeM / Mila, and expected graduation in 2027.

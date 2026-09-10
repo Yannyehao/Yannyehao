@@ -2,29 +2,29 @@
   <title id="title">Yehao Yan — AI Scientist at BNC · UdeM / Mila</title>
   <desc id="desc">Personal portfolio. Currently studying at Université de Montréal, with a Mila background. Expected graduation 2027. Montréal.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#172538"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a4b6d2" stroke-opacity=".06"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f4effc"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8962b0" stroke-opacity=".055"/></pattern>
   </defs>
-  <rect width="1200" height="380" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="22" fill="url(#bg)" stroke="#e6dcef" stroke-width="2"/>
   <rect width="1200" height="380" rx="22" fill="url(#grid)"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="54" y="46" width="7" height="7" rx="2" fill="#e4bd76"/>
-    <text x="75" y="56" fill="#abbcd2" font-size="14" letter-spacing="3">RESEARCH / ENGINEERING / PRACTICE</text>
-    <text x="51" y="152" fill="#f1f5fa" font-size="78" font-weight="700" letter-spacing="-3">Yehao Yan</text>
-    <text x="56" y="209" fill="#e4bd76" font-size="29" font-weight="600">AI Scientist @ BNC</text>
-    <text x="56" y="258" fill="#d8e4f3" font-size="28">Université de Montréal · Mila</text>
-    <text x="57" y="300" fill="#9eb1c8" font-size="20">Currently studying · Expected graduation 2027</text>
-    <text x="57" y="351" fill="#869cb9" font-size="13" letter-spacing="2">MONTRÉAL</text>
+    <rect x="54" y="46" width="7" height="7" rx="2" fill="#682da0"/>
+    <text x="75" y="56" fill="#77638b" font-size="14" letter-spacing="3">RESEARCH / ENGINEERING / PRACTICE</text>
+    <text x="51" y="152" fill="#3d155d" font-size="78" font-weight="700" letter-spacing="-3">Yehao Yan</text>
+    <text x="56" y="209" fill="#682da0" font-size="29" font-weight="600">AI Scientist @ BNC</text>
+    <text x="56" y="258" fill="#592782" font-size="28">Université de Montréal · Mila</text>
+    <text x="57" y="300" fill="#70617e" font-size="20">Currently studying · Expected graduation 2027</text>
+    <text x="57" y="351" fill="#79658d" font-size="13" letter-spacing="2">MONTRÉAL</text>
     <g transform="translate(804 82)">
-      <rect width="335" height="238" rx="16" fill="#162237" stroke="#35445e"/>
-      <text x="24" y="37" fill="#8198b7" font-size="12" letter-spacing="2">FROM QUESTIONS TO SYSTEMS</text>
-      <path d="M45 88V189M45 88H78M45 140H78M45 189H78" fill="none" stroke="#6884ac" stroke-width="2"/>
-      <circle cx="45" cy="88" r="5" fill="#e4bd76"/>
-      <circle cx="45" cy="140" r="5" fill="#94baf0"/>
-      <circle cx="45" cy="189" r="5" fill="#81c7ba"/>
-      <text x="94" y="94" fill="#e4bd76" font-size="23" font-weight="600">Explore</text>
-      <text x="94" y="147" fill="#aacbf9" font-size="23" font-weight="600">Experiment</text>
-      <text x="94" y="196" fill="#a4ded1" font-size="23" font-weight="600">Build</text>
+      <rect width="335" height="238" rx="16" fill="#ffffff" stroke="#ddcfec"/>
+      <text x="24" y="37" fill="#7c668f" font-size="12" letter-spacing="2">FROM QUESTIONS TO SYSTEMS</text>
+      <path d="M45 88V189M45 88H78M45 140H78M45 189H78" fill="none" stroke="#c4a9e1" stroke-width="2"/>
+      <circle cx="45" cy="88" r="5" fill="#682da0"/>
+      <circle cx="45" cy="140" r="5" fill="#9358c2"/>
+      <circle cx="45" cy="189" r="5" fill="#b17bd2"/>
+      <text x="94" y="94" fill="#682da0" font-size="23" font-weight="600">Explore</text>
+      <text x="94" y="147" fill="#7b40ac" font-size="23" font-weight="600">Experiment</text>
+      <text x="94" y="196" fill="#8d50b7" font-size="23" font-weight="600">Build</text>
     </g>
   </g>
 </svg>
